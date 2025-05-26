@@ -1,2 +1,2 @@
-# marketprojects
+# marketanalysisprojects
 Marketing Analysis projects
